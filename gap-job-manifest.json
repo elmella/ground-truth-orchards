@@ -1,0 +1,16 @@
+{"source-ref":"s3://ground-truth-orchards/txt_files/tree_3.txt","source-ref-metadata":{"format":"text/xyz","unix-timestamp":1687901033}}
+{"source-ref":"s3://ground-truth-orchards/txt_files/tree_4.txt","source-ref-metadata":{"format":"text/xyz","unix-timestamp":1687901034}}
+{"source-ref":"s3://ground-truth-orchards/txt_files/tree_5.txt","source-ref-metadata":{"format":"text/xyz","unix-timestamp":1687901035}}
+{"source-ref":"s3://ground-truth-orchards/txt_files/tree_6.txt","source-ref-metadata":{"format":"text/xyz","unix-timestamp":1687901036}}
+{"source-ref":"s3://ground-truth-orchards/txt_files/tree_7.txt","source-ref-metadata":{"format":"text/xyz","unix-timestamp":1687901037}}
+{"source-ref":"s3://ground-truth-orchards/txt_files/tree_9.txt","source-ref-metadata":{"format":"text/xyz","unix-timestamp":1687901039}}
+{"source-ref":"s3://ground-truth-orchards/txt_files/tree_10.txt","source-ref-metadata":{"format":"text/xyz","unix-timestamp":1687901040}}
+{"source-ref":"s3://ground-truth-orchards/txt_files/tree_12.txt","source-ref-metadata":{"format":"text/xyz","unix-timestamp":1687901042}}
+{"source-ref":"s3://ground-truth-orchards/txt_files/tree_13.txt","source-ref-metadata":{"format":"text/xyz","unix-timestamp":1687901043}}
+{"source-ref":"s3://ground-truth-orchards/txt_files/tree_16.txt","source-ref-metadata":{"format":"text/xyz","unix-timestamp":1687901046}}
+{"source-ref":"s3://ground-truth-orchards/txt_files/tree_19.txt","source-ref-metadata":{"format":"text/xyz","unix-timestamp":1687901049}}
+{"source-ref":"s3://ground-truth-orchards/txt_files/tree_20.txt","source-ref-metadata":{"format":"text/xyz","unix-timestamp":1687901050}}
+{"source-ref":"s3://ground-truth-orchards/txt_files/tree_21.txt","source-ref-metadata":{"format":"text/xyz","unix-timestamp":1687901051}}
+{"source-ref":"s3://ground-truth-orchards/txt_files/tree_23.txt","source-ref-metadata":{"format":"text/xyz","unix-timestamp":1687901053}}
+{"source-ref":"s3://ground-truth-orchards/txt_files/tree_25.txt","source-ref-metadata":{"format":"text/xyz","unix-timestamp":1687901055}}
+{"source-ref":"s3://ground-truth-orchards/txt_files/tree_26.txt","source-ref-metadata":{"format":"text/xyz","unix-timestamp":1687901056}}

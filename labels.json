@@ -1,0 +1,19 @@
+{
+    "labels": [
+        {
+            "label": "Trunk"
+        },
+        {
+            "label": "Branch"
+        },
+        {
+            "label": "Leaf"
+        },
+        {
+            "label": "Blossom"
+        },
+        {
+            "label": "Ground"
+        }
+    ]
+}

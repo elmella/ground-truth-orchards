@@ -1,0 +1,3 @@
+{"source-ref":"s3://ground-truth-orchards/txt_files/cherry_1.txt","source-ref-metadata":{"format":"text/xyzrgb","unix-timestamp":1687901028}}
+{"source-ref":"s3://ground-truth-orchards/txt_files/cherry_2.txt","source-ref-metadata":{"format":"text/xyzrgb","unix-timestamp":1687901029}}
+{"source-ref":"s3://ground-truth-orchards/txt_files/granny.txt","source-ref-metadata":{"format":"text/xyzrgb","unix-timestamp":1687901030}}
